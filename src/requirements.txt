@@ -1,0 +1,5 @@
+marshmallow
+flask
+flask_cors
+flask_smorest
+flask_swagger_ui

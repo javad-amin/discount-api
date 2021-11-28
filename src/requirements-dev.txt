@@ -1,0 +1,5 @@
+-r requirements.txt
+nose
+coverage
+boto3
+flake8
